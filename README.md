@@ -29,7 +29,7 @@ To set up the project locally, follow these steps:
 1.  **Clone the repository**:
 
     ```bash
-    git clone <https://github.com/technical-beast-7/Agrotech-platform>
+    git clone https://github.com/technical-beast-7/Agrotech-platform
     cd FarmEz-main
     ```
 
@@ -67,3 +67,4 @@ To set up the project locally, follow these steps:
 
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
