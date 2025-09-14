@@ -1,6 +1,6 @@
-# FarmEz - Agricultural Platform
+# Agrotech Platform
 
-FarmEz is a comprehensive agricultural platform designed to assist farmers with crop recommendations, market price analysis, and a marketplace for buying and selling produce. The platform aims to leverage technology to empower farmers and improve agricultural practices.
+Agrotech is a comprehensive agricultural platform designed to assist farmers with crop recommendations, market price analysis, and a marketplace for buying and selling produce. The platform aims to leverage technology to empower farmers and improve agricultural practices.
 
 ## Features
 
@@ -67,5 +67,6 @@ To set up the project locally, follow these steps:
 
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
 
 
