@@ -23,8 +23,8 @@ client = MongoClient(os.getenv('MONGO_URI'))
 db = client['FarmEz']
 
 app = Flask(__name__)
-app.secret_key = 'nareshrko10'
-app.config["MONGO_URI"] = "mongodb://localhost:27017/farm_ez"
+app.secret_key = 'SECRET_KEY'
+app.config["MONGO_URI"] = "mongodb://localhost:27017/"
 mongo = PyMongo(app)
 
 @app.route('/')
