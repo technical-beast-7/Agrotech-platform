@@ -30,7 +30,7 @@ To set up the project locally, follow these steps:
 
     ```bash
     git clone https://github.com/technical-beast-7/Agrotech-platform
-    cd FarmEz-main
+    cd Agrotech-platform
     ```
 
 2.  **Create a virtual environment** (recommended):
@@ -67,4 +67,5 @@ To set up the project locally, follow these steps:
 
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
 
