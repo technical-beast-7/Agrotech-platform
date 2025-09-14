@@ -1,17 +1,18 @@
 # Agrotech Platform
 
-Agrotech is a comprehensive agricultural platform designed to assist farmers with crop recommendations, market price analysis, and a marketplace for buying and selling produce. The platform aims to leverage technology to empower farmers and improve agricultural practices.
+Agrotech is a comprehensive agricultural platform designed to empower farmers with crop recommendations, market price analysis, a produce marketplace, and innovative land leasing solutions. The platform aims to leverage technology to enhance agricultural productivity and connectivity.
 
 ## Features
 
-*   **Crop Recommendation System**: Provides recommendations for suitable crops based on various parameters.
-*   **Market Price Analysis**: Offers insights into current market prices for different commodities.
-*   **Buy/Sell Marketplace**: A platform for farmers to buy and sell their produce directly.
-*   **Multilingual Support**: Available in English, Hindi, and Marathi for broader accessibility.
-*   **Chatbot**: An interactive chatbot to answer farmer queries.
-*   **User Authentication**: Secure sign-up and sign-in functionalities.
-*   **User Profiles**: Personalized profiles for farmers to manage their information and listings.
-*   **News and Trends**: Keeps users updated with the latest agricultural news and trends.
+*   **Land Leasing**: Landowners with underutilized land can seamlessly register their property on our platform, making it visible to farmers who can explore and lease the land for agricultural use.
+*   **Crop Recommendation System**: Delivers tailored crop suggestions based on various agronomic parameters.
+*   **Market Price Analysis**: Provides real-time insights into prevailing market prices for diverse commodities.
+*   **Buy/Sell Marketplace**: Enables direct transactions between farmers for buying and selling produce.
+*   **Multilingual Support**: Accessible in English, Hindi, and Marathi to cater to a diverse user base.
+*   **Chatbot**: An interactive assistant to address farmer inquiries.
+*   **User Authentication**: Robust and secure sign-up/sign-in functionalities.
+*   **User Profiles**: Personalized dashboards for farmers to manage their information, listings, and leased land.
+*   **News and Trends**: Keeps users informed with the latest agricultural developments and trends.
 
 ## Technologies Used
 
@@ -59,14 +60,10 @@ To set up the project locally, follow these steps:
 
 *   `fixed_app.py`: Main Flask application file.
 *   `crops.py`: Python script related to crop data.
-*   `templates/`: Contains all HTML template files for the web interface.
+*   `templates/`: Contains all HTML template files for the web interface, including land leasing pages and forms.
 *   `static/`: Contains static assets like CSS, JavaScript, and images.
 *   `requirements.txt`: Lists all Python dependencies.
 
 ## Contributing
 
-
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-
-
